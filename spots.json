@@ -1,0 +1,69 @@
+{
+    "spots": [
+        {
+            "name": "Coronado",
+            "id": "5842041f4e65fad6a77088ce",
+            "url": "https://www.surfline.com/surf-report/coronado-beach/5842041f4e65fad6a77088ce"
+        },
+        {
+            "name": "PB Point",
+            "id": "5842041f4e65fad6a77088c2",
+            "url": "https://www.surfline.com/surf-report/pb-point/5842041f4e65fad6a77088c2"
+        },
+        {
+            "name": "Birdrock",
+            "id": "5842041f4e65fad6a770883a",
+            "url": "https://www.surfline.com/surf-report/birdrock/5842041f4e65fad6a770883a"
+        },
+        {
+            "name": "Windansea",
+            "id": "5842041f4e65fad6a770883c",
+            "url": "https://www.surfline.com/surf-report/windansea/5842041f4e65fad6a770883c"
+        },
+        {
+            "name": "Horseshoe",
+            "id": "5842041f4e65fad6a770883d",
+            "url": "https://www.surfline.com/surf-report/horseshoe/5842041f4e65fad6a770883d"
+        },
+        {
+            "name": "La Jolla Shores",
+            "id": "5842041f4e65fad6a77088cc",
+            "url": "https://www.surfline.com/surf-report/la-jolla-shores/5842041f4e65fad6a77088cc"
+        },
+        {
+            "name": "Scripps",
+            "id": "5842041f4e65fad6a7708839",
+            "url": "https://www.surfline.com/surf-report/scripps/5842041f4e65fad6a7708839?camId=5834a0733421b20545c4b584"
+        },
+        {
+            "name": "Blacks",
+            "id": "5842041f4e65fad6a770883b",
+            "url": "https://www.surfline.com/surf-report/blacks/5842041f4e65fad6a770883b"
+        },
+        {
+            "name": "Seaside",
+            "id": "5842041f4e65fad6a77088b3",
+            "url": "https://www.surfline.com/surf-report/seaside-reef/5842041f4e65fad6a77088b3"
+        },
+        {
+            "name": "George's",
+            "id": "584204214e65fad6a7709d1a",
+            "url": "https://www.surfline.com/surf-report/george-s/584204214e65fad6a7709d1a"
+        },
+        {
+            "name": "Cardiff",
+            "id": "5842041f4e65fad6a77088b1",
+            "url": "https://www.surfline.com/surf-report/cardiff-reef/5842041f4e65fad6a77088b1?camId=583496ce3421b20545c4b52a"
+        },
+        {
+            "name": "Pipes",
+            "id": "5c008f5313603c0001df5318",
+            "url": "https://www.surfline.com/surf-report/pipes/5c008f5313603c0001df5318"
+        },
+        {
+            "name": "Oceanside Harbor",
+            "id": "5842041f4e65fad6a7708832",
+            "url": "https://www.surfline.com/surf-report/oceanside-harbor/5842041f4e65fad6a7708832?camId=58349e3ae411dc743a5d52c3"
+        }
+    ]
+}
