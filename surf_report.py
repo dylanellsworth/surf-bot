@@ -1,8 +1,7 @@
 from pysurfline import SurfReport, SpotForecast
-from datetime import datetime
-import surf_spots
+import core
 
-def get_surf_report(spot_name, days, hour_interval):
+def get_spot_report(spot_name, days, hour_interval):
     '''
     Returns the surf report for a given spot.
 
@@ -15,7 +14,7 @@ def get_surf_report(spot_name, days, hour_interval):
       SurfReport object
     '''
     try:
-        spot_id = surf_spots.get_spot_id(spot_name)
+        spot_id = core.spots_db.get_spot_id(spot_name)
         params = {
             "spotId": spot_id,
             "days": days,
@@ -40,7 +39,7 @@ def get_spot_forecast(spot_name, days, hour_interval):
       SurfForecast object
     '''
     try:
-        spot_id = surf_spots.get_spot_id(spot_name)
+        spot_id = core.spots_db.get_spot_id(spot_name)
         params = {
             "spotId": spot_id,
             "days": days,
@@ -50,17 +49,3 @@ def get_spot_forecast(spot_name, days, hour_interval):
         return report
     except KeyError as err:
         print(err)
-
-
-def timestamp_to_datetime(timestamp):
-    '''
-    Returns datetime object given a timestamp.
-
-    Parameters:
-      timestamp(int): Name of the surf spot
-
-    Returns:
-      datetime object
-    '''    
-    dt_obj = datetime.fromtimestamp(timestamp)
-    return dt_obj
