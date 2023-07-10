@@ -64,6 +64,16 @@
             "name": "Oceanside Harbor",
             "id": "5842041f4e65fad6a7708832",
             "url": "https://www.surfline.com/surf-report/oceanside-harbor/5842041f4e65fad6a7708832?camId=58349e3ae411dc743a5d52c3"
+        },
+        {
+            "name": "Teahupoo",
+            "id": "5842041f4e65fad6a7708dbf",
+            "url": "https://www.surfline.com/surf-report/teahupoo/5842041f4e65fad6a7708dbf"
+        }, 
+        {
+            "name": "Pipeline",
+            "id": "5842041f4e65fad6a7708890",
+            "url": "https://www.surfline.com/surf-report/pipeline/5842041f4e65fad6a7708890"
         }
     ]
 }
