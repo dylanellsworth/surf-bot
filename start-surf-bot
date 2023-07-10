@@ -1,0 +1,5 @@
+#! /bin/bash
+# surf-bot start script
+
+# start surf-bot
+python3 surf_bot.py
