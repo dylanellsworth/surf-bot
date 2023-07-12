@@ -64,5 +64,3 @@ def degrees_to_cardinal(deg):
     else :
         raise ValueError("Cannot convert degrees to cardinal. Invalid input: '", deg, "'")
     return card_dir
-
-print(degrees_to_cardinal(-10.12))
